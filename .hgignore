@@ -1,0 +1,12 @@
+syntax: glob
+## general
+*.orig
+*~
+sandbox/*
+## specific
+scripts/localconfig.js
+src/flash-ordnance
+.DS_Store
+src/dfid
+src/flash-working
+app/bubblechart/src/WDMG_hierarchy_all_silhouettes\.ai
